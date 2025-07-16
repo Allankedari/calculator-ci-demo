@@ -6,3 +6,6 @@ This project demonstrates GitHub Actions for CI with a simple Node.js calculator
 
 ```bash
 node index.js
+## Update
+
+Tested on Master branch with GitHub Actions.
